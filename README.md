@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ibrohim0.vercel.app/](https://portfolio-ibrohim0.vercel.app/)
 
-- 📫 How to reach me **ibrohimjumayev07@gmail.comd**
+- 📫 How to reach me **ibrohimjumayev07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
