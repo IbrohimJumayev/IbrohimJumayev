@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrohim</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ibrohim0.vercel.app/](https://portfolio-ibrohim0.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-ibrohim0.vercel.app/](https://ibrohimjumayev.vercel.app/)
 
 - 📫 How to reach me **ibrohimjumayev07@gmail.com**
 
